@@ -1,0 +1,13 @@
+# Base vectorial — grande, se regenera con ingest
+chroma_db/
+
+# Credenciales
+.env
+google_token.json
+google_credentials.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
+*.egg-info/
